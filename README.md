@@ -32,23 +32,25 @@ Se familiariser avec les différents types de boucles dans le langage Python.
 - Comment connaitre le nombre d’itération pour une boucle ?
 
 ## Hypothèses Vrai-Faux
-- Patrick : Une boucle peut contenir une autre boucle
-- Hadjer : Il n’y a que 2 types de boucles
-- Salah : Il faut indenter les structures de boucle
-- Rafael :
-  - On peut faire une boucle qui se décrémente
-  - On peut mettre un for dans un while et inversement
-- Thibaut : match est un type de boucle
-- Alexis : Une boucle bornée peut s’écrire comme une boucle non bornée 
-- Hassan : Toutes les boucles sont infinies
-- Alexandre : Une peut sortir d’une boucle quand l’on veut
-- Ahmed : Le fonction range est importante pour la boucle for
-- Munkherdene : 
-- Philippe : Imbriqué des boucles n’a pas d’impact sur la lourdeur du programme
-- Bart :
-  - Il n’existe pas de do … while en python
-  - On peut annoter les boucles en python
-- Paul : On peut utiliser des opérateurs de comparaisons dans les boucles
+
+- **Patrick :** Vrai. Une boucle peut contenir une autre boucle, ce qu'on appelle une boucle imbriquée.
+- **Hadjer :** Faux. Il y a plus de deux types de boucles en Python, notamment `for`, `while`, et des boucles imbriquées.
+- **Salah :** Vrai. L'indentation est essentielle pour définir les structures de boucles en Python.
+- **Rafael :**
+  - Vrai. On peut créer une boucle qui se décrémente en ajustant le pas de l'itération.
+  - Vrai. Il est possible de mettre un `for` dans un `while` et vice versa.
+- **Thibaut :** Faux. `match` n'est pas un type de boucle, mais une structure de contrôle introduite dans Python 3.10 pour les correspondances de motifs.
+- **Alexis :** Vrai. Une boucle bornée peut être écrite de manière à fonctionner comme une boucle non bornée en modifiant les conditions de contrôle.
+- **Hassan :** Faux. Pas toutes les boucles sont infinies; elles peuvent avoir des conditions de sortie claires.
+- **Alexandre :** Vrai. On peut sortir d'une boucle à tout moment en utilisant `break`.
+- **Ahmed :** Vrai. La fonction `range` est souvent utilisée dans les boucles `for` pour générer des séquences numériques.
+- **Munkherdene :**
+- **Philippe :** Faux. L'imbrication des boucles peut affecter la complexité et la performance du programme.
+- **Bart :**
+  - Vrai. Il n'y a pas de structure de boucle `do ... while` en Python.
+  - Faux. Les annotations en Python ne sont pas utilisées pour les boucles.
+- **Paul :** Vrai. Les opérateurs de comparaison sont couramment utilisés dans les conditions des boucles.
+
 
 ## Plan d’action
 - Explorer les ressources
