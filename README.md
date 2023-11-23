@@ -4,24 +4,24 @@
 Se familiariser avec les différents types de boucles dans le langage Python.
 
 ## Mots Clés
-- **Boucle :**
-- **Boucle bornée :**
-- **Boucle non bornée :**
-- **Boucle imbriquée :**
-- **For :**
-- **While :**
-- **Itération :**
-- **Récursivité :**
-- **Pas :**
-- **Compréhension de liste :**
-- **Def :**
-- **Return :**
-- **In :**
-- **Range :**
-- **Pass :**
-- **None :**
-- **Break :**
-- **Continue :**
+- **Boucle :** Structure qui répète un bloc de code tant qu'une condition est vraie.
+- **Boucle bornée :** Boucle dont le nombre d'itérations est déterminé à l'avance (ex. `for`).
+- **Boucle non bornée :** Boucle qui continue jusqu'à ce qu'une condition spécifique soit rencontrée (ex. `while`).
+- **Boucle imbriquée :** Une boucle à l'intérieur d'une autre boucle.
+- **For :** Boucle utilisée pour itérer sur une séquence (liste, tuple, chaîne, etc.).
+- **While :** Boucle qui s'exécute tant qu'une condition donnée est vraie.
+- **Itération :** Processus de répétition d'un ensemble d'instructions.
+- **Récursivité :** Technique où une fonction s'appelle elle-même.
+- **Pas :** Terme utilisé pour décrire l'incrément dans les boucles.
+- **Compréhension de liste :** Méthode concise de création de listes.
+- **Def :** Utilisé pour définir une fonction.
+- **Return :** Utilisé pour renvoyer une valeur depuis une fonction.
+- **In :** Utilisé pour vérifier si un élément est présent dans une séquence.
+- **Range :** Fonction qui génère une séquence de nombres.
+- **Pass :** Instruction de remplissage sans effet.
+- **None :** Représente l'absence de valeur ou un vide.
+- **Break :** Utilisé pour sortir immédiatement d'une boucle.
+- **Continue :** Passe à l'itération suivante d'une boucle.
 
 ## Problématique
 - Comment utiliser les boucles pour résoudre un problème ?
