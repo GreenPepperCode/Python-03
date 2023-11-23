@@ -22,6 +22,8 @@ Se familiariser avec les différents types de boucles dans le langage Python.
 - **None :** Représente l'absence de valeur ou un vide.
 - **Break :** Utilisé pour sortir immédiatement d'une boucle.
 - **Continue :** Passe à l'itération suivante d'une boucle.
+- **Compteur :** Variable utilisée pour suivre le nombre de fois qu'une boucle a été exécutée. En Python, elle est souvent utilisée dans des boucles `for` ou `while` pour comptabiliser les itérations.
+
 
 ## Problématique
 - Comment utiliser les boucles pour résoudre un problème ?
